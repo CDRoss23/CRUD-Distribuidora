@@ -6,7 +6,7 @@
 #include "cargar.c"
 
 #define CONTRASENA_VENTAS "ventas1"
-#define CONTRASENA_ALMACEN "alamacen2"
+#define CONTRASENA_ALMACEN "almacen2"
 #define CONTRASENA_GERENTE "gerente3"
 
 void autoriColab(){
